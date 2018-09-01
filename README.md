@@ -1,2 +1,2 @@
 # workshopB2W
-Workshop da B2W na semana de computação da UFRJ 2018.
+Workshop da B2W sobre WEB front-end usando HTML/CSS/JS.
